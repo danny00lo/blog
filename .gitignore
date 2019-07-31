@@ -3,4 +3,5 @@
 /.vscode/
 /docs/.vuepress/dist/
 
+deploy.sh
 yarn.lock
