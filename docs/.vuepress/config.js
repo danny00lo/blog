@@ -29,6 +29,7 @@ module.exports = {
             '/blog/', // 你的md文件地址
             '/blog/FirstBlog', // 你的md文件地址
             '/blog/20190730', // 你的md文件地址
+            '/blog/20190731', // 你的md文件地址
           ]
         },
       ]
